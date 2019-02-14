@@ -1,1 +1,1 @@
-include ':app', ':drawing', ':cameraanimation'
+include ':app', ':drawing', ':cameraanimation', ':08_animation'
