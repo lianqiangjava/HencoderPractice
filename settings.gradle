@@ -1,1 +1,1 @@
-include ':app', ':drawing', ':cameraanimation', ':08_animation', ':09_bitmap_drawable', ':16_thread_synchronization'
+include ':app', ':drawing', ':cameraanimation', ':08_animation', ':09_bitmap_drawable', ':16_thread_synchronization', ':17_thread_interaction'
